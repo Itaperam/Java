@@ -1,0 +1,10 @@
+package datas;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yyyy"); 
+	}
+
+}

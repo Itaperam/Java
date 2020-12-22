@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+/home/italo/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+790703569.index
+3098412229.index
+3762251980.index
+3924607544.index
+2185871236.index
+57022283.index
+3234731947.index
+3880009513.index
+2393851214.index
+1308814663.index
+2050246720.index
+2064741995.index
+4071426965.index
+1260495281.index

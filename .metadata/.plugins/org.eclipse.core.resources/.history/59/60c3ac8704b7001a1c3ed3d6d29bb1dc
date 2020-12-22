@@ -1,0 +1,9 @@
+package heranca;
+
+public class Animal {
+	
+	int tamanho;
+	String nome;
+	String cor;
+
+}

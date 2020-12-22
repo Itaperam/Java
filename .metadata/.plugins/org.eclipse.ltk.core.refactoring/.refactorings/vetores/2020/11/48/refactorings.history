@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;vetores&apos; to &apos;application&apos;&#x0A;- Original project: &apos;vetores&apos;&#x0A;- Original element: &apos;vetores/src/vetores&apos;&#x0A;- Renamed element: &apos;vetores/src/application&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;vetores&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;vetores" name="application" qualified="false" references="true" stamp="1606438435091" textual="false" version="1.0"/>
+</session>
